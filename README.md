@@ -2,11 +2,6 @@
 
 ### My name is Clint Baker
 
-- 🏔️ I live in Salt Lake City, UT
-- 🧑‍💻 I build full stack Javascript apps (Next.js, React.js, Node.js)
-- 🏪 I have experience developing Shopify websites (Liquid, Polaris, etc.)
-- 🏌️‍♂️ I have experience with Python for data analysis and software development (pandas, numpy, plotly, FastAPI)
-
-Reach out or give me a follow to stay up to date with my projects! Let's build something together!
+I'm a data practitioner focused on building reliable data pipelines, analytical tools, and software systems that turn raw data into useful products. My work spans data engineering, analytics, and full-stack development. I connect technical systems with real business outcomes.
 
 - clintjbaker@gmail.com
